@@ -1,0 +1,26 @@
+{
+  "Student": {
+    "_id": "1",
+    "first_name": "Adam",
+    "last_name": "Rodgers",
+    "mi": "J",
+    "Enroll": [
+      {
+        "_id": "1-1",
+        "Class": {
+          "_id": "335",
+          "name": "Introduction to NoSQL"
+        },
+        "grade": "A"
+      },
+
+      {
+        "Class": {
+          "_id": "420",
+          "name": "RESTful APIs"
+        },
+        "grade": "A"
+      }
+    ]
+  }
+}

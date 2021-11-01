@@ -1,0 +1,27 @@
+{
+  "Customer": {
+    "_id": "3422",
+    "first_name": "Thom",
+    "last_name": "Yorke",
+    "date_of_birth": "10/07/1968",
+    "user_name": "okcomputer",
+    "Invoice": [
+      {
+        "_id": "3422-1",
+        "date_created": "10/28/2021",
+        "date_shipped": "10/30/2021",
+        "subtotal": "1999.00",
+        "tax": "159.92",
+        "total": "2158.92",
+        "Line Item": [
+          {
+            "_id": "534534",
+            "name": "A Moon Shaped Pool",
+            "price": "19.99",
+            "quantity": "100"
+          }
+        ]
+      }
+    ]
+  }
+}
